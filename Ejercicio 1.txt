@@ -1,3 +1,3 @@
 Fuerza = 200
-Aceleración = 100
-Destreza = 50
+Aceleración = 50
+Destreza = 100
