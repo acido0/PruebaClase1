@@ -1,3 +1,3 @@
 Fuerza = 200
-Velocidad = 100
+Aceleración = 100
 Destreza = 50
